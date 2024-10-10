@@ -1,0 +1,25 @@
+# Week 2 : Topic Processing: Brains versus Computers
+This week, we consider how we process the data we explored last week. We begin by considering the long history of attempts to describe, systematize and automate cognition. Once again we'll compare human information processing with machine processing. We explore algorithmic thinking with a focus on algorithms for common tasks (e.g. sort and search) as well as general patterns of computation (e.g. iteration and recursion) and measures of performance and complexity (Big O Notation). We compare this with what we understand about the human brain and finish the week with a focus on the one aspect of human cognition that is still a mystery: consciousness.
+
+
+
+## KEY TAKE-AWAYS
+
+1. To what extent do language and logic form the basis for computational thinking and how does Boolean logic work to implement this process?
+2. What are the arguments for thinking about the brain as entirely different?
+3. What is the difference between iteration and recursion, and why do some think of recursion as the key to human information processing?
+4. How does information pose a counter to pure materialism? What are the various theories of consciousness?
+5. Given existing theories, how likely are we to be able to create conscious machines?
+
+## READINGS
+
+All readings can be found on our course website.
+
+### CODING
+
+See Runestone for our coding exercises for this week. We'll focus on object-oriented programming (in anticipation of week 5) alongside iteration, recursion, and loops.
+
+## IN-CLASS EXERCISES
+
+* [title](../code/week2_processing_iterators_performance_complexity.ipynb)
+* [title](../code/week2_python_loops_and_bigo_20211004.ipynb)

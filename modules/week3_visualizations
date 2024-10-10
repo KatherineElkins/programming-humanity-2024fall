@@ -1,0 +1,29 @@
+# Week 3: Topic Output: Visualizations
+
+We move this week to the output of data in a visualization. We start with the basics: the beauty of information as well as the pitfalls of poor visualizations. Good visualizations can be incredibly persuasive, but so can visualizations that fudge the data to persuade you, or that camouflage missing or biased data. In addition to learning good design properties of data visualization, we'll take a crash course in how to spot bad data visualizations that can deceive. We will also consider what may be "invisible" due to the way data is collected or organized. We end the week with a consideration of how we now get much of our information today: social media.
+
+
+
+## KEY TAKE-AWAYS
+
+1. What are some common ways that visualizations can lie?
+2. Even as we critique the increasing role of Dataism in our lives, many groups are arguing for better representation in data. Why?
+3. What makes a good visualization and why? How do we turn data into stories?
+4. Consider all the factors that influence our access to good information. We start with the question of how well journalism actually informs us of important information (Chomsky), and Snowden's more recent argument that the media isn't doing it's job. Why not? How has the internet changed that situation? Should the government have the right to censor/monitor journalists? Is there any news that should be off-limits?
+
+
+## READINGS
+
+Please consult our course website for readings.
+
+### CODING
+
+See DataCamp for our coding exercises for this week. We explore both the theory and practice of data visualization.
+
+## IN-CLASS EXERCISES
+
+*[title](../code/week3_output_exploring_csv_pandas_matplotlb_500novels_customizable.ipynb)
+
+We will be using the World Bank CO2 dataset this week with Tableau Public
+
+https://docs.google.com/spreadsheets/d/1pImzM7MSmhyh_Y8cQz6HCUYx7hPy0FOp/edit?gid=1395246920#gid=1395246920

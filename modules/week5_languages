@@ -1,0 +1,28 @@
+# Week 5: Topic Languages (Artificial and Natural)
+
+This week we explore languages, both artificial (often referred to as "formal") and natural. We'll see how artificial and natural languages share underlying similarities; at the same time, individual languages can constrain how we describe and even think about reality. We'll explore the parsing/grammar approaches to understanding language, and consider four different programming paradigms.
+
+
+## KEY QUESTIONS
+
+1. How is this thought process the same or different for natural and artificial languages?
+2. The programming language you are learning, Python, needs to be interpreted for the computer. On the most basic level, how does this work?
+3. What is Object-Oriented Programming (OOP), and what problems does it solve?
+4. Briefly compare object-oriented, procedural, functional and logic-based programming paradigms.
+5. How do languages shape the way we think and even what we can imagine?
+6. Theories of language are important for understanding how computers can both "understand" and generate language. What are the critiques of Chomsky? What do you think of GPT-2 (3, 4, o1) and its output? Does it tell us anything about how language works?
+7. Can you explain OOO? How does this philosophical position reflect the "thought" of objected-oriented programming? Is it ethically compelling or not, and why?
+
+## READINGS
+
+See our course website for readings.
+
+### CODING
+
+We continue DataCamp with a focus on python. 
+
+
+## IN-CLASS EXERCISES
+
+* [title](../code/week5_python_grammars_ast.ipynb)
+* [title](../code/week5_JAX_functional_programming_speed_compiling%20(1).ipynb)

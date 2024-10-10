@@ -1,0 +1,30 @@
+# Week 4: Topic Networks
+This week, we focus on how this single physical computer (a complete computational unit) can operate as just one "node" in a much larger and more complex network of computers. Networking enables a single computational node to overcome limits of compute power, memory, and bandwidth by becoming part of a much larger network. Network effects describe the emergent property of networks in which the whole network has entirely new and sometimes unexpected properties beyond just the simple sum of its parts. Networks bring a double-edged sword of opportunity and risk.Our ethical concern revolves around both the concentrated power and potential abuse of network effects by both state and non-state actors.
+
+
+## KEY QUESTIONS
+
+1. Why was the internet designed the way it was? What is the internet of things?
+2. What are key elements of networks and how does graph theory help us explore these?
+3. Relate blockchain to our earlier explorations of assymetric encryption. How does bitcoin work?
+4. What is the most concerning instance of non-net neutrality? Is hacktivism ever justified? Does cyerberwarfare ever warrant a kinetic response?
+
+## READINGS
+
+See our class website for this week's readings.
+
+### CODING
+
+We finish our DataCamp Data Viz course to prepare for miniproject #1: Finding a story in data.
+For both options (Tableau or Jupyter notebook with Matplotlib)
+
+a) A consideration of the dataset. Where is it from? What might be missing? b) EDA: a visualization that highlights something not obvious from summary statistics. c) 3 visualizations that together form a story (i.e. not 3 separate observations with no overarching thesis). d) your story should not directly replicate or copy an existing "story" on kaggle, Tableau, etc. 
+
+For Tableau: The project must have 3 sheets combined in a story with three panels as well as an interactive dashboard. For Google Colab: The story should have explanatory text between code cells with visualizations. If using AI generated code please include an analysis of how well the code generation works. Share the link either to Tableau public or to your google colab alongside a link of where you found your dataset.  
+
+## IN-CLASS EXERCISES
+
+This week we will be exploring network traffic using the command line as well as finishing tutorials on blockchain and bitcoin. 
+
+Here is an example of a successful data viz project. 
+*[title](../code/Sample_Miniproject1_DataViz_Fiore.ipynb)
